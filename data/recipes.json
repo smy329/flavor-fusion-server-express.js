@@ -1,0 +1,588 @@
+[
+  {
+    "chef_id": 1,
+    "recipe_id": 1,
+    "recipe_name": "Enchiladas Verdes",
+    "ingredients": [
+      "tomatillos",
+      "white onion",
+      "jalapeno peppers",
+      "garlic",
+      "chicken broth",
+      "corn tortillas",
+      "cooked chicken",
+      "queso fresco",
+      "sour cream"
+    ],
+    "cooking_method": [
+      "Boil tomatillos, onion, jalapenos, and garlic until tender.",
+      "Blend mixture until smooth.",
+      "Add chicken broth and cook over low heat until sauce thickens. ",
+      "Dip corn tortillas in the sauce and fill with cooked chicken.",
+      "Roll and place in a baking dish.",
+      "Pour remaining sauce over enchiladas and top with crumbled queso fresco.",
+      "Bake at 375°F for 15 minutes.",
+      "Serve with a dollop of sour cream."
+    ],
+    "rating": 3.7
+  },
+  {
+    "chef_id": 1,
+    "recipe_id": 2,
+    "recipe_name": "Tostadas de Tinga",
+    "ingredients": [
+      "chicken breast",
+      "white onion",
+      "garlic",
+      "chipotle peppers in adobo sauce",
+      "canned diced tomatoes",
+      "corn tostadas",
+      "refried beans",
+      "lettuce",
+      "sour cream",
+      "queso fresco"
+    ],
+    "cooking_method": [
+      "Poach chicken breast in water with onion and garlic until cooked through. ",
+      " Shred chicken and set aside. ",
+      " Saute diced onion and garlic in a little oil until tender. ",
+      " Add shredded chicken, chipotle peppers, and canned tomatoes. ",
+      " Simmer until mixture thickens. ",
+      " Spread refried beans on tostadas and top with chicken mixture. ",
+      " Add shredded lettuce, a dollop of sour cream, and crumbled queso fresco on top."
+    ],
+    "rating": 4.6
+  },
+  {
+    "chef_id": 1,
+    "recipe_id": 3,
+    "recipe_name": "Pico de Gallo",
+    "ingredients": [
+      "tomatoes",
+      "white onion",
+      "jalapeno peppers",
+      "lime juice",
+      "fresh cilantro"
+    ],
+    "cooking_method": [
+      " Dice tomatoes, onion, and jalapeno peppers. ",
+      " Chop cilantro. ",
+      " Mix all ingredients together in a bowl. ",
+      " Season with lime juice and salt to taste."
+    ],
+    "rating": 4.4
+  },
+  {
+    "chef_id": 1,
+    "recipe_id": 4,
+    "recipe_name": "Salsa Roja",
+    "ingredients": [
+      "dried chiles",
+      "canned tomatoes",
+      "white onion",
+      "garlic",
+      "chicken broth"
+    ],
+    "cooking_method": [
+      " Toast dried chiles in a dry skillet until fragrant. ",
+      " Soak chiles in hot water until softened. ",
+      " Blend chiles, canned tomatoes, onion, garlic, and chicken broth until smooth. ",
+      " Cook mixture in a saucepan over low heat until thickened."
+    ],
+    "rating": 4.2
+  },
+  {
+    "chef_id": 2,
+    "recipe_id": 5,
+    "recipe_name": "Chiles Rellenos",
+    "ingredients": [
+      "poblano peppers",
+      "white onion",
+      "garlic",
+      "ground beef",
+      "cumin",
+      "cooked rice",
+      "queso fresco",
+      "egg whites",
+      "flour",
+      "oil"
+    ],
+    "cooking_method": [
+      " Roast poblano peppers over an open flame until the skins are charred. ",
+      " Let the peppers cool and remove the skins. ",
+      " Saute diced onion and garlic in a little oil until tender. ",
+      " Add ground beef and cook until browned. ",
+      " Add cumin, cooked rice, and crumbled queso fresco to the beef mixture. ",
+      " Stuff the beef mixture inside the poblano peppers. ",
+      " Beat egg whites until stiff peaks form. ",
+      " Dip stuffed peppers in flour and then in the beaten egg whites. ",
+      " Fry in hot oil until golden brown."
+    ],
+    "rating": 3.8
+  },
+  {
+    "chef_id": 2,
+    "recipe_id": 6,
+    "recipe_name": "Pork Carnitas",
+    "ingredients": [
+      "pork shoulder",
+      "orange juice",
+      "lime juice",
+      "garlic",
+      "cumin",
+      "coriander",
+      "salt",
+      "oil"
+    ],
+    "cooking_method": [
+      " Cut pork shoulder into chunks. ",
+      " Mix orange juice, lime juice, garlic, cumin, coriander, and salt together in a bowl. ",
+      " Pour mixture over pork chunks and let marinate for at least an hour. ",
+      " Heat oil in a Dutch oven or deep skillet. ",
+      " Add pork chunks and cook until browned on all sides. ",
+      " Cover and simmer until pork is tender and falls apart easily. ",
+      " Remove from heat and let cool. ",
+      " Shred pork and use in tacos or burritos."
+    ],
+    "rating": 3.6
+  },
+  {
+    "chef_id": 2,
+    "recipe_id": 7,
+    "recipe_name": "Mexican Rice",
+    "ingredients": [
+      "long-grain rice",
+      "vegetable oil",
+      "white onion",
+      "garlic",
+      "canned diced tomatoes",
+      "chicken broth",
+      "cumin",
+      "salt"
+    ],
+    "cooking_method": [
+      " Rinse rice in a fine mesh strainer until water runs clear. ",
+      " Heat oil in a saucepan and add rice. ",
+      " Cook rice until it is lightly browned. ",
+      " Add diced onion and garlic and cook until onion is tender. ",
+      " Add canned tomatoes, chicken broth, cumin, and salt. ",
+      " Bring mixture to a boil, then reduce heat to low and cover. ",
+      " Simmer for 20-25 minutes or until rice is cooked through and liquid is absorbed."
+    ],
+    "rating": 4.4
+  },
+  {
+    "chef_id": 2,
+    "recipe_id": 8,
+    "recipe_name": "Taco Salad",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 package taco seasoning",
+      "1 can black beans, drained and rinsed",
+      "1 cup corn kernels",
+      "1 head romaine lettuce, chopped"
+    ],
+    "cooking_method": [
+      " In a large skillet over medium heat, cook the ground beef until browned and no longer pink. Add the taco seasoning and cook for another 5 minutes.",
+      " In a large bowl, combine the cooked beef, black beans, corn, and romaine lettuce.",
+      " Toss to combine and serve immediately."
+    ],
+    "rating": 4.5
+  },
+  {
+    "chef_id": 2,
+    "recipe_id": 9,
+    "recipe_name": "Chicken Enchiladas",
+    "ingredients": [
+      "1 lb boneless, skinless chicken breasts, cooked and shredded",
+      "1 can black beans, drained and rinsed",
+      "1 can corn, drained",
+      "1/2 cup salsa",
+      "8-10 corn tortillas"
+    ],
+    "cooking_method": [
+      " Preheat oven to 350°F.",
+      " In a large bowl, combine the shredded chicken, black beans, corn, and salsa.",
+      " Spoon a portion of the chicken mixture onto each tortilla and roll up.",
+      " Place the enchiladas in a baking dish and cover with foil.",
+      " Bake for 20-25 minutes, until heated through.",
+      " Remove from oven and serve immediately."
+    ],
+    "rating": 4.2
+  },
+  {
+    "chef_id": 3,
+    "recipe_id": 10,
+    "recipe_name": "Shrimp Ceviche",
+    "ingredients": [
+      "1 lb medium shrimp, peeled and deveined",
+      "1/2 cup freshly squeezed lime juice",
+      "1/4 cup freshly squeezed orange juice",
+      "1/2 red onion, diced",
+      "1 jalapeño pepper, seeded and minced"
+    ],
+    "cooking_method": [
+      " Bring a large pot of salted water to a boil. Add the shrimp and cook until pink, about 2-3 minutes.",
+      " Drain the shrimp and transfer them to a large bowl.",
+      " Add the lime juice, orange juice, red onion, jalapeño pepper, and salt to taste.",
+      " Toss to combine and refrigerate for at least 30 minutes, or until ready to serve."
+    ],
+    "rating": 4.7
+  },
+  {
+    "chef_id": 3,
+    "recipe_id": 11,
+    "recipe_name": "Chiles Rellenos",
+    "ingredients": [
+      "6 poblano peppers",
+      "1 lb ground beef",
+      "1/2 onion, diced",
+      "2 cloves garlic, minced",
+      "1/4 cup chopped fresh cilantro"
+    ],
+    "cooking_method": [
+      " Preheat the oven to 350°F.",
+      " Char the poblano peppers over an open flame or under the broiler until the skin is blackened.",
+      " Place the peppers in a paper bag and let them steam for 10 minutes.",
+      " Remove the skin, seeds, and membranes from the peppers and set them aside.",
+      " In a large skillet over medium heat, cook the ground beef until browned and no longer pink.",
+      " Add the onion and garlic and cook until softened.",
+      " Stir in the cilantro and season with salt and pepper to taste.",
+      " Stuff each pepper with the beef mixture and place them in a baking dish.",
+      " Bake for 15-20 minutes, until heated through.",
+      " Remove from oven and serve immediately."
+    ],
+    "rating": 4.3
+  },
+  {
+    "chef_id": 3,
+    "recipe_id": 12,
+    "recipe_name": "Mexican Rice",
+    "ingredients": [
+      "1 cup long-grain white rice",
+      "1 tbsp olive oil",
+      "1/2 onion, diced",
+      "2 cloves garlic, minced",
+      "1 cup chicken broth"
+    ],
+    "cooking_method": [
+      " Rinse the rice in a fine mesh strainer and drain well.",
+      " Heat the olive oil in a medium saucepan over medium heat.",
+      " Add the onion and garlic and cook until softened.",
+      " Stir in the rice and cook until lightly toasted.",
+      " Add the chicken broth and bring to a boil.",
+      " Reduce the heat to low, cover, and simmer for 18-20 minutes, until the rice is tender and the liquid is absorbed.",
+      " Fluff the rice with a fork and serve immediately."
+    ],
+    "rating": 4.5
+  },
+  {
+    "chef_id": 3,
+    "recipe_id": 13,
+    "recipe_name": "Taco Salad",
+    "ingredients": [
+      "ground beef",
+      "taco seasoning",
+      "lettuce",
+      "tomatoes",
+      "cheddar cheese"
+    ],
+    "cooking_method": [
+      " Brown the ground beef in a skillet over medium heat. ",
+      " Add taco seasoning and stir until meat is fully coated. ",
+      " Remove from heat and let cool. ",
+      " Chop lettuce and tomatoes. ",
+      " Layer lettuce, meat, tomatoes, and cheddar cheese in a bowl. "
+    ],
+    "rating": 4.5
+  },
+  {
+    "chef_id": 3,
+    "recipe_id": 14,
+    "recipe_name": "Mexican Rice",
+    "ingredients": [
+      "long-grain white rice",
+      "vegetable oil",
+      "tomato sauce",
+      "chicken broth",
+      "onion"
+    ],
+    "cooking_method": [
+      " Rinse the rice in a fine mesh strainer until the water runs clear. ",
+      " Heat the oil in a large skillet over medium heat. ",
+      " Add the rice and cook until lightly toasted, stirring frequently. ",
+      " Add the onion and cook until softened. ",
+      " Add the tomato sauce and chicken broth and stir to combine. ",
+      " Bring to a boil, then reduce heat to low and cover. ",
+      " Cook for 18-20 minutes or until the liquid has been absorbed and the rice is tender. ",
+      " Fluff with a fork before serving."
+    ],
+    "rating": 4.2
+  },
+  {
+    "chef_id": 4,
+    "recipe_id": 15,
+    "recipe_name": "Mole Poblano",
+    "ingredients": [
+      "dried ancho chiles",
+      "dried pasilla chiles",
+      "dried mulato chiles",
+      "onion",
+      "garlic",
+      "tomatoes",
+      "sesame seeds",
+      "almonds",
+      "raisins",
+      "corn tortillas",
+      "cinnamon",
+      "cloves",
+      "cumin",
+      "black pepper",
+      "salt",
+      "sugar",
+      "chicken stock",
+      "dark chocolate",
+      "vegetable oil"
+    ],
+    "cooking_method": [
+      " Toast the dried chiles in a dry skillet until they are fragrant, then soak them in hot water until soft. ",
+      " Fry the onion, garlic, and tomatoes in oil until they are softened, then add the sesame seeds, almonds, and raisins and fry until the almonds are golden brown. ",
+      " Grind the soaked chiles and spices in a blender until smooth, then add the fried mixture and blend again. ",
+      " Heat the mole in a pot, adding chicken stock and chocolate until the mole is smooth and the chocolate is melted. ",
+      " Serve with rice and chicken."
+    ],
+    "rating": 3.8
+  },
+  {
+    "chef_id": 4,
+    "recipe_id": 16,
+    "recipe_name": "Tacos al Pastor",
+    "ingredients": [
+      "pork shoulder",
+      "achiote paste",
+      "guajillo chiles",
+      "pineapple",
+      "onion",
+      "garlic",
+      "oregano",
+      "cumin",
+      "coriander",
+      "salt",
+      "tortillas",
+      "cilantro",
+      "lime juice"
+    ],
+    "cooking_method": [
+      " Marinate the pork shoulder in a mixture of achiote paste, guajillo chiles, pineapple, onion, garlic, oregano, cumin, coriander, and salt. ",
+      " Roast the pork in the oven until it's cooked through, then slice it thinly. ",
+      " Heat the tortillas on a griddle or in the oven. ",
+      " Assemble the tacos by placing slices of pork on the tortillas and topping them with cilantro and lime juice."
+    ],
+    "rating": 4.5
+  },
+  {
+    "chef_id": 4,
+    "recipe_id": 17,
+    "recipe_name": "Chiles Rellenos",
+    "ingredients": [
+      "poblano peppers",
+      "ground beef",
+      "onion",
+      "garlic",
+      "tomatoes",
+      "raisins",
+      "almonds",
+      "olives",
+      "cinnamon",
+      "cumin",
+      "coriander",
+      "oregano",
+      "salt",
+      "pepper",
+      "eggs",
+      "flour",
+      "oil"
+    ],
+    "cooking_method": [
+      " Roast the poblano peppers until the skin is charred, then remove the skin and seeds. ",
+      " Fry the ground beef with onion, garlic, tomatoes, raisins, almonds, olives, cinnamon, cumin, coriander, oregano, salt, and pepper. ",
+      " Stuff the peppers with the beef mixture. ",
+      " Beat the eggs until they're frothy, then add a little flour and beat again. ",
+      " Dip the stuffed peppers in the egg mixture, then fry them in oil until they're golden brown."
+    ],
+    "rating": 4.2
+  },
+  {
+    "chef_id": 4,
+    "recipe_id": 18,
+    "recipe_name": "Chile Rellenos",
+    "ingredients": [
+      "poblano peppers",
+      "queso fresco",
+      "flour",
+      "eggs",
+      "vegetable oil"
+    ],
+    "cooking_method": [
+      " Roast the poblanos under the broiler or on a gas stovetop until the skin is charred. ",
+      " Place the peppers in a plastic bag and let them steam for 15-20 minutes. ",
+      " Peel the skin off the peppers and make a small slit in each one to remove the seeds. ",
+      " Stuff each pepper with queso fresco. ",
+      " Roll the peppers in flour. ",
+      " Beat the eggs until frothy. ",
+      " Heat the oil in a large skillet over medium heat. ",
+      " Dip the peppers in the egg mixture, coating them completely. ",
+      " Fry the peppers in the hot oil, turning them once, until they are golden brown. ",
+      " Drain on paper towels and serve hot."
+    ],
+    "rating": 3.8
+  },
+  {
+    "chef_id": 4,
+    "recipe_id": 19,
+    "recipe_name": "Mexican Shrimp Cocktail",
+    "ingredients": [
+      "cooked shrimp",
+      "tomatoes",
+      "onion",
+      "jalapeno",
+      "lime juice"
+    ],
+    "cooking_method": [
+      " Chop the tomatoes, onion, and jalapeno. ",
+      " Combine the chopped vegetables with the cooked shrimp in a large bowl. ",
+      " Squeeze lime juice over the mixture. ",
+      " Season with salt and pepper to taste. ",
+      " Chill in the refrigerator for at least 30 minutes before serving."
+    ],
+    "rating": 3.4
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": 20,
+    "recipe_name": "Chicken Tinga Tacos",
+    "ingredients": [
+      "chicken breasts",
+      "onion",
+      "garlic",
+      "chipotle peppers",
+      "tomatoes"
+    ],
+    "cooking_method": [
+      " Cook the chicken in a large pot of boiling salted water until cooked through, about 20 minutes. ",
+      " Remove the chicken from the water and shred with two forks. ",
+      " In a large skillet, sauté the onion and garlic until translucent. ",
+      " Add the chipotle peppers and tomatoes to the skillet and cook until the tomatoes start to break down. ",
+      " Add the shredded chicken to the skillet and stir to combine with the sauce. ",
+      " Serve the chicken tinga on warm tortillas with your favorite toppings."
+    ],
+    "rating": 4.7
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": 21,
+    "recipe_name": "Mexican Street Corn",
+    "ingredients": [
+      "corn on the cob",
+      "mayonnaise",
+      "cotija cheese",
+      "lime juice",
+      "chili powder"
+    ],
+    "cooking_method": [
+      " Grill or boil the corn on the cob until it is cooked through. ",
+      " Brush the corn with mayonnaise. ",
+      " Sprinkle cotija cheese over the corn. ",
+      " Squeeze lime juice over the corn. ",
+      " Sprinkle chili powder over the corn. ",
+      " Serve hot."
+    ],
+    "rating": 4.5
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": 22,
+    "recipe_name": "Enchilada Casserole",
+    "ingredients": [
+      "ground beef",
+      "enchilada sauce",
+      "corn tortillas",
+      "shredded cheese",
+      "black beans"
+    ],
+    "cooking_method": [
+      "Preheat the oven to 375°F.",
+      "Brown the ground beef in a large skillet.",
+      "Add the enchilada sauce to the skillet and stir to combine with the beef.",
+      "In a 9x13 inch baking dish, spread a thin layer of the beef mixture on the bottom.",
+      "Layer the corn tortillas over the beef mixture, cutting them to fit as necessary.",
+      "Spread a layer of black beans over the tortillas.",
+      "Repeat the layers until all ingredients are used, ending with a layer of tortillas on top.",
+      "Sprinkle shredded cheese over the top of the casserole.",
+      "Cover with foil and bake for 30 minutes.",
+      "Remove the foil and bake for an additional 10 minutes, or until the cheese is melted and bubbly."
+    ],
+    "rating": 4.9
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": 23,
+    "recipe_name": "Chipotle Chicken Tacos",
+    "ingredients": [
+      "1 pound boneless, skinless chicken breasts",
+      "1 tablespoon olive oil",
+      "1 teaspoon garlic powder",
+      "1 teaspoon smoked paprika",
+      "1 teaspoon chili powder",
+      "1 teaspoon cumin",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1/2 cup diced onion",
+      "1/2 cup diced red bell pepper",
+      "1/4 cup diced green chilies",
+      "2 tablespoons chopped chipotle peppers in adobo sauce",
+      "8 corn tortillas",
+      "1 cup shredded lettuce",
+      "1/2 cup crumbled queso fresco",
+      "1/4 cup chopped cilantro",
+      "Sour cream, for serving",
+      "Lime wedges, for serving"
+    ],
+    "cooking_method": [
+      "Preheat oven to 375°F.",
+      "In a small bowl, mix together garlic powder, smoked paprika, chili powder, cumin, salt, and black pepper.",
+      "Place chicken breasts on a baking sheet and rub with olive oil. Sprinkle spice mixture over chicken, making sure to coat both sides.",
+      "Bake for 20-25 minutes or until chicken is cooked through.",
+      "Meanwhile, heat a large skillet over medium-high heat. Add onion, red bell pepper, and green chilies. Cook for 3-4 minutes or until vegetables are tender.",
+      "Add chopped chipotle peppers to skillet and stir to combine.",
+      "Shred cooked chicken with two forks and add to skillet. Stir to combine.",
+      "To assemble tacos, warm corn tortillas in the microwave or on a griddle. Spoon chicken mixture onto each tortilla and top with shredded lettuce, crumbled queso fresco, and chopped cilantro.",
+      "Serve with sour cream and lime wedges."
+    ],
+    "rating": 4.7
+  },
+  {
+    "chef_id": 5,
+    "recipe_id": 24,
+    "recipe_name": "Churro French Toast",
+    "ingredients": [
+      "1/2 cup granulated sugar",
+      "1 teaspoon ground cinnamon",
+      "6 slices thick-cut bread",
+      "3 eggs",
+      "1/2 cup milk",
+      "1 teaspoon vanilla extract",
+      "2 tablespoons unsalted butter"
+    ],
+    "cooking_method": [
+      "In a small bowl, mix together sugar and cinnamon. Set aside.",
+      "In a shallow dish, whisk together eggs, milk, and vanilla extract.",
+      "Melt butter in a large skillet over medium-high heat.",
+      "Dip each slice of bread into egg mixture, making sure to coat both sides.",
+      "Place bread slices in skillet and cook for 2-3 minutes per side or until golden brown.",
+      "Remove bread from skillet and immediately sprinkle both sides with cinnamon sugar mixture.",
+      "Serve warm."
+    ],
+    "rating": 4.3
+  }
+]

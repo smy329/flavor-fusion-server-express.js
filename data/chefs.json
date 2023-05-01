@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "chef_image_url": "https://example.com/chef1_avatar.jpg",
+    "chef_name": "Ana Hernandez",
+    "years_of_experience": 8,
+    "num_of_recipes": 40,
+    "likes": 1200,
+    "bio": "Ana Hernandez is a Mexican-born chef with a passion for creating traditional dishes with a modern twist. She has worked in kitchens all over Mexico and the United States, and her recipes are known for their bold flavors and fresh ingredients."
+  },
+  {
+    "id": 2,
+    "chef_image_url": "https://example.com/chef2_avatar.jpg",
+    "chef_name": "Juan Lopez",
+    "years_of_experience": 12,
+    "num_of_recipes": 70,
+    "likes": 800,
+    "bio": "Juan Lopez is a master chef with over a decade of experience in the kitchen. He specializes in classic Mexican cuisine, and his recipes are inspired by the rich culinary traditions of his homeland."
+  },
+  {
+    "id": 3,
+    "chef_image_url": "https://example.com/chef3_avatar.jpg",
+    "chef_name": "María Garcia",
+    "years_of_experience": 5,
+    "num_of_recipes": 20,
+    "likes": 400,
+    "bio": "María Garcia is a rising star in the world of Mexican cuisine. With a focus on fresh, locally-sourced ingredients and innovative cooking techniques, she has quickly made a name for herself in the competitive culinary world."
+  },
+  {
+    "id": 4,
+    "chef_image_url": "https://example.com/chef4_avatar.jpg",
+    "chef_name": "Miguel Torres",
+    "years_of_experience": 15,
+    "num_of_recipes": 100,
+    "likes": 2000,
+    "bio": "Miguel Torres is a veteran chef with over 15 years of experience in the kitchen. He has a passion for using traditional Mexican ingredients and techniques to create new and exciting dishes that showcase the diverse flavors of his homeland."
+  },
+  {
+    "id": 5,
+    "chef_image_url": "https://example.com/chef5_avatar.jpg",
+    "chef_name": "Carmen Martinez",
+    "years_of_experience": 3,
+    "num_of_recipes": 10,
+    "likes": 100,
+    "bio": "Carmen Martinez is a young chef who is quickly making a name for herself in the culinary world. She is known for her innovative takes on classic Mexican dishes, and her recipes are quickly gaining a following among foodies and critics alike."
+  },
+  {
+    "id": 6,
+    "chef_image_url": "https://example.com/chef6_avatar.jpg",
+    "chef_name": "José Jimenez",
+    "years_of_experience": 7,
+    "num_of_recipes": 50,
+    "likes": 500,
+    "bio": "José Jimenez is a passionate chef who takes pride in using only the freshest, highest-quality ingredients in his dishes. He has a talent for blending traditional Mexican flavors with modern cooking techniques to create truly unique and memorable dishes."
+  }
+]
