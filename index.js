@@ -15,8 +15,24 @@ app.get('/chefs', (req, res) => {
   res.send(chefsData);
 });
 
+app.get('/chefs/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedChef = recipesData.filter(
+    (cid) => cid.chef_id === parseInt(id)
+  );
+  res.send(selectedChef);
+});
+
 app.get('/recipes', (req, res) => {
   res.send(recipesData);
+});
+
+app.get('/recipes/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedRecipe = recipesData.find(
+    (rid) => rid.recipe_id === parseInt(id)
+  );
+  res.send(selectedRecipe);
 });
 
 app.listen(port, () => {
