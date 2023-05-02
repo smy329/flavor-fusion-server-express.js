@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chef_image_url": "https://example.com/chef1_avatar.jpg",
+    "chef_image_url": "https://images.pexels.com/photos/14811401/pexels-photo-14811401.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "chef_name": "Ana Hernandez",
     "years_of_experience": 8,
     "num_of_recipes": 40,
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "chef_image_url": "https://example.com/chef2_avatar.jpg",
+    "chef_image_url": "https://images.pexels.com/photos/5737252/pexels-photo-5737252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "chef_name": "Juan Lopez",
     "years_of_experience": 12,
     "num_of_recipes": 70,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "chef_image_url": "https://example.com/chef3_avatar.jpg",
+    "chef_image_url": "https://images.pexels.com/photos/7698235/pexels-photo-7698235.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "chef_name": "María Garcia",
     "years_of_experience": 5,
     "num_of_recipes": 20,
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "chef_image_url": "https://example.com/chef4_avatar.jpg",
+    "chef_image_url": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "chef_name": "Miguel Torres",
     "years_of_experience": 15,
     "num_of_recipes": 100,
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "chef_image_url": "https://example.com/chef5_avatar.jpg",
+    "chef_image_url": "https://images.pexels.com/photos/8951248/pexels-photo-8951248.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "chef_name": "Carmen Martinez",
     "years_of_experience": 3,
     "num_of_recipes": 10,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "chef_image_url": "https://example.com/chef6_avatar.jpg",
+    "chef_image_url": "https://images.pexels.com/photos/7965977/pexels-photo-7965977.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "chef_name": "José Jimenez",
     "years_of_experience": 7,
     "num_of_recipes": 50,
