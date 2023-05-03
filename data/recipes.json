@@ -3,6 +3,7 @@
     "chef_id": 1,
     "recipe_id": 1,
     "recipe_name": "Enchiladas Verdes",
+    "recipe_img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "ingredients": [
       "tomatillos",
       "white onion",
@@ -11,8 +12,7 @@
       "chicken broth",
       "corn tortillas",
       "cooked chicken",
-      "queso fresco",
-      "sour cream"
+      "queso fresco"
     ],
     "cooking_method": [
       "Boil tomatillos, onion, jalapenos, and garlic until tender.",
@@ -30,6 +30,7 @@
     "chef_id": 1,
     "recipe_id": 2,
     "recipe_name": "Tostadas de Tinga",
+    "recipe_img": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "chicken breast",
       "white onion",
@@ -38,9 +39,7 @@
       "canned diced tomatoes",
       "corn tostadas",
       "refried beans",
-      "lettuce",
-      "sour cream",
-      "queso fresco"
+      "lettuce"
     ],
     "cooking_method": [
       "Poach chicken breast in water with onion and garlic until cooked through. ",
@@ -57,6 +56,7 @@
     "chef_id": 1,
     "recipe_id": 3,
     "recipe_name": "Pico de Gallo",
+    "recipe_img": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "tomatoes",
       "white onion",
@@ -76,6 +76,7 @@
     "chef_id": 1,
     "recipe_id": 4,
     "recipe_name": "Salsa Roja",
+    "recipe_img": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "dried chiles",
       "canned tomatoes",
@@ -95,6 +96,7 @@
     "chef_id": 2,
     "recipe_id": 5,
     "recipe_name": "Chiles Rellenos",
+    "recipe_img": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "poblano peppers",
       "white onion",
@@ -124,6 +126,7 @@
     "chef_id": 2,
     "recipe_id": 6,
     "recipe_name": "Pork Carnitas",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "pork shoulder",
       "orange juice",
@@ -150,6 +153,7 @@
     "chef_id": 2,
     "recipe_id": 7,
     "recipe_name": "Mexican Rice",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "long-grain rice",
       "vegetable oil",
@@ -175,6 +179,7 @@
     "chef_id": 2,
     "recipe_id": 8,
     "recipe_name": "Taco Salad",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "1 lb ground beef",
       "1 package taco seasoning",
@@ -193,6 +198,7 @@
     "chef_id": 2,
     "recipe_id": 9,
     "recipe_name": "Chicken Enchiladas",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "1 lb boneless, skinless chicken breasts, cooked and shredded",
       "1 can black beans, drained and rinsed",
@@ -214,6 +220,7 @@
     "chef_id": 3,
     "recipe_id": 10,
     "recipe_name": "Shrimp Ceviche",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "1 lb medium shrimp, peeled and deveined",
       "1/2 cup freshly squeezed lime juice",
@@ -233,6 +240,7 @@
     "chef_id": 3,
     "recipe_id": 11,
     "recipe_name": "Chiles Rellenos",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "6 poblano peppers",
       "1 lb ground beef",
@@ -258,6 +266,7 @@
     "chef_id": 3,
     "recipe_id": 12,
     "recipe_name": "Mexican Rice",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "1 cup long-grain white rice",
       "1 tbsp olive oil",
@@ -280,6 +289,7 @@
     "chef_id": 3,
     "recipe_id": 13,
     "recipe_name": "Taco Salad",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "ground beef",
       "taco seasoning",
@@ -300,6 +310,7 @@
     "chef_id": 3,
     "recipe_id": 14,
     "recipe_name": "Mexican Rice",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "long-grain white rice",
       "vegetable oil",
@@ -323,6 +334,7 @@
     "chef_id": 4,
     "recipe_id": 15,
     "recipe_name": "Mole Poblano",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "dried ancho chiles",
       "dried pasilla chiles",
@@ -331,18 +343,7 @@
       "garlic",
       "tomatoes",
       "sesame seeds",
-      "almonds",
-      "raisins",
-      "corn tortillas",
-      "cinnamon",
-      "cloves",
-      "cumin",
-      "black pepper",
-      "salt",
-      "sugar",
-      "chicken stock",
-      "dark chocolate",
-      "vegetable oil"
+      "almonds"
     ],
     "cooking_method": [
       " Toast the dried chiles in a dry skillet until they are fragrant, then soak them in hot water until soft. ",
@@ -357,6 +358,7 @@
     "chef_id": 4,
     "recipe_id": 16,
     "recipe_name": "Tacos al Pastor",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "pork shoulder",
       "achiote paste",
@@ -384,6 +386,7 @@
     "chef_id": 4,
     "recipe_id": 17,
     "recipe_name": "Chiles Rellenos",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "poblano peppers",
       "ground beef",
@@ -392,16 +395,7 @@
       "tomatoes",
       "raisins",
       "almonds",
-      "olives",
-      "cinnamon",
-      "cumin",
-      "coriander",
-      "oregano",
-      "salt",
-      "pepper",
-      "eggs",
-      "flour",
-      "oil"
+      "olives"
     ],
     "cooking_method": [
       " Roast the poblano peppers until the skin is charred, then remove the skin and seeds. ",
@@ -416,6 +410,7 @@
     "chef_id": 4,
     "recipe_id": 18,
     "recipe_name": "Chile Rellenos",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "poblano peppers",
       "queso fresco",
@@ -441,6 +436,7 @@
     "chef_id": 4,
     "recipe_id": 19,
     "recipe_name": "Mexican Shrimp Cocktail",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "cooked shrimp",
       "tomatoes",
@@ -461,6 +457,7 @@
     "chef_id": 5,
     "recipe_id": 20,
     "recipe_name": "Chicken Tinga Tacos",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "chicken breasts",
       "onion",
@@ -482,6 +479,7 @@
     "chef_id": 5,
     "recipe_id": 21,
     "recipe_name": "Mexican Street Corn",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "corn on the cob",
       "mayonnaise",
@@ -503,6 +501,7 @@
     "chef_id": 5,
     "recipe_id": 22,
     "recipe_name": "Enchilada Casserole",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "ground beef",
       "enchilada sauce",
@@ -528,6 +527,7 @@
     "chef_id": 5,
     "recipe_id": 23,
     "recipe_name": "Chipotle Chicken Tacos",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "1 pound boneless, skinless chicken breasts",
       "1 tablespoon olive oil",
@@ -536,17 +536,7 @@
       "1 teaspoon chili powder",
       "1 teaspoon cumin",
       "1/2 teaspoon salt",
-      "1/2 teaspoon black pepper",
-      "1/2 cup diced onion",
-      "1/2 cup diced red bell pepper",
-      "1/4 cup diced green chilies",
-      "2 tablespoons chopped chipotle peppers in adobo sauce",
-      "8 corn tortillas",
-      "1 cup shredded lettuce",
-      "1/2 cup crumbled queso fresco",
-      "1/4 cup chopped cilantro",
-      "Sour cream, for serving",
-      "Lime wedges, for serving"
+      "1/2 teaspoon black pepper"
     ],
     "cooking_method": [
       "Preheat oven to 375°F.",
@@ -565,6 +555,7 @@
     "chef_id": 5,
     "recipe_id": 24,
     "recipe_name": "Churro French Toast",
+    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "ingredients": [
       "1/2 cup granulated sugar",
       "1 teaspoon ground cinnamon",

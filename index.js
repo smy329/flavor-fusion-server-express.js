@@ -15,12 +15,18 @@ app.get('/chefs', (req, res) => {
   res.send(chefsData);
 });
 
-app.get('/chefs/:id', (req, res) => {
+app.get('/chef/:id', (req, res) => {
   const id = req.params.id;
-  const selectedChef = recipesData.filter(
+  const selectedChef = chefsData.find((cid) => cid.id === parseInt(id));
+  res.send(selectedChef);
+});
+
+app.get('/chef-recipes/:id', (req, res) => {
+  const id = req.params.id;
+  const selectedChefRecipes = recipesData.filter(
     (cid) => cid.chef_id === parseInt(id)
   );
-  res.send(selectedChef);
+  res.send(selectedChefRecipes);
 });
 
 app.get('/recipes', (req, res) => {
