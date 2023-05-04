@@ -3,7 +3,7 @@
     "chef_id": 1,
     "recipe_id": 1,
     "recipe_name": "Enchiladas Verdes",
-    "recipe_img": "https://recipes.net/wp-content/uploads/portal_files/recipes_net_posts/2021-06/enchiladas-verdes-con-pollo-recipe.png",
+    "recipe_img": "https://sazondemama.com/wp-content/uploads/2022/09/Como-preparar-la-receta-Mexicana-de-enchiladas-verdes-y-cuantas-calorias-tienen.jpg",
     "ingredients": [
       "tomatillos",
       "white onion",
@@ -555,7 +555,130 @@
     "chef_id": 5,
     "recipe_id": 24,
     "recipe_name": "Churro French Toast",
-    "recipe_img": "https://i0.wp.com/goepicurista.com/wp-content/uploads/2020/04/churro-french-toast-grilled-cheese-2-scaled.jpeg?resize=768%2C960&ssl=1",
+    "recipe_img": "https://potatorolls.com/wp-content/uploads/2020/10/Churro-French-Toast-Ice-Cream-Sandwich2-960x640.jpg",
+    "ingredients": [
+      "1/2 cup granulated sugar",
+      "1 teaspoon ground cinnamon",
+      "6 slices thick-cut bread",
+      "3 eggs",
+      "1/2 cup milk",
+      "1 teaspoon vanilla extract",
+      "2 tablespoons unsalted butter"
+    ],
+    "cooking_method": [
+      "In a small bowl, mix together sugar and cinnamon. Set aside.",
+      "In a shallow dish, whisk together eggs, milk, and vanilla extract.",
+      "Melt butter in a large skillet over medium-high heat.",
+      "Dip each slice of bread into egg mixture, making sure to coat both sides.",
+      "Place bread slices in skillet and cook for 2-3 minutes per side or until golden brown.",
+      "Remove bread from skillet and immediately sprinkle both sides with cinnamon sugar mixture.",
+      "Serve warm."
+    ],
+    "rating": 4.3
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": 25,
+    "recipe_name": "Chicken Tinga Tacos",
+    "recipe_img": "https://hips.hearstapps.com/hmg-prod/images/chicken-tinga-5-1579643696.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
+    "ingredients": [
+      "chicken breasts",
+      "onion",
+      "garlic",
+      "chipotle peppers",
+      "tomatoes"
+    ],
+    "cooking_method": [
+      " Cook the chicken in a large pot of boiling salted water until cooked through, about 20 minutes. ",
+      " Remove the chicken from the water and shred with two forks. ",
+      " In a large skillet, sauté the onion and garlic until translucent. ",
+      " Add the chipotle peppers and tomatoes to the skillet and cook until the tomatoes start to break down. ",
+      " Add the shredded chicken to the skillet and stir to combine with the sauce. ",
+      " Serve the chicken tinga on warm tortillas with your favorite toppings."
+    ],
+    "rating": 4.7
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": 26,
+    "recipe_name": "Mexican Street Corn",
+    "recipe_img": "https://www.seriouseats.com/thmb/6tXTfp2-QGmVLazenk672sgUdRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210630-elotes-melissa-hom-seriouseats-5-895932860b0d4f88b1b330e574036305.jpg",
+    "ingredients": [
+      "corn on the cob",
+      "mayonnaise",
+      "cotija cheese",
+      "lime juice",
+      "chili powder"
+    ],
+    "cooking_method": [
+      " Grill or boil the corn on the cob until it is cooked through. ",
+      " Brush the corn with mayonnaise. ",
+      " Sprinkle cotija cheese over the corn. ",
+      " Squeeze lime juice over the corn. ",
+      " Sprinkle chili powder over the corn. ",
+      " Serve hot."
+    ],
+    "rating": 4.5
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": 27,
+    "recipe_name": "Enchilada Casserole",
+    "recipe_img": "https://images-gmi-pmc.edge-generalmills.com/805abafa-31cb-4971-9149-648b61106e30.jpg",
+    "ingredients": [
+      "ground beef",
+      "enchilada sauce",
+      "corn tortillas",
+      "shredded cheese",
+      "black beans"
+    ],
+    "cooking_method": [
+      "Preheat the oven to 375°F.",
+      "Brown the ground beef in a large skillet.",
+      "Add the enchilada sauce to the skillet and stir to combine with the beef.",
+      "In a 9x13 inch baking dish, spread a thin layer of the beef mixture on the bottom.",
+      "Layer the corn tortillas over the beef mixture, cutting them to fit as necessary.",
+      "Spread a layer of black beans over the tortillas.",
+      "Repeat the layers until all ingredients are used, ending with a layer of tortillas on top.",
+      "Sprinkle shredded cheese over the top of the casserole.",
+      "Cover with foil and bake for 30 minutes.",
+      "Remove the foil and bake for an additional 10 minutes, or until the cheese is melted and bubbly."
+    ],
+    "rating": 4.9
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": 28,
+    "recipe_name": "Chipotle Chicken Tacos",
+    "recipe_img": "https://www.modernhoney.com/wp-content/uploads/2018/09/Chipotle-Chicken-Tinga-Tacos-9.jpg",
+    "ingredients": [
+      "1 pound boneless, skinless chicken breasts",
+      "1 tablespoon olive oil",
+      "1 teaspoon garlic powder",
+      "1 teaspoon smoked paprika",
+      "1 teaspoon chili powder",
+      "1 teaspoon cumin",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon black pepper"
+    ],
+    "cooking_method": [
+      "Preheat oven to 375°F.",
+      "In a small bowl, mix together garlic powder, smoked paprika, chili powder, cumin, salt, and black pepper.",
+      "Place chicken breasts on a baking sheet and rub with olive oil. Sprinkle spice mixture over chicken, making sure to coat both sides.",
+      "Bake for 20-25 minutes or until chicken is cooked through.",
+      "Meanwhile, heat a large skillet over medium-high heat. Add onion, red bell pepper, and green chilies. Cook for 3-4 minutes or until vegetables are tender.",
+      "Add chopped chipotle peppers to skillet and stir to combine.",
+      "Shred cooked chicken with two forks and add to skillet. Stir to combine.",
+      "To assemble tacos, warm corn tortillas in the microwave or on a griddle. Spoon chicken mixture onto each tortilla and top with shredded lettuce, crumbled queso fresco, and chopped cilantro.",
+      "Serve with sour cream and lime wedges."
+    ],
+    "rating": 4.7
+  },
+  {
+    "chef_id": 6,
+    "recipe_id": 29,
+    "recipe_name": "Churro French Toast",
+    "recipe_img": "https://potatorolls.com/wp-content/uploads/2020/10/Churro-French-Toast-Ice-Cream-Sandwich2-960x640.jpg",
     "ingredients": [
       "1/2 cup granulated sugar",
       "1 teaspoon ground cinnamon",
