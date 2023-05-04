@@ -3,7 +3,7 @@
     "chef_id": 1,
     "recipe_id": 1,
     "recipe_name": "Enchiladas Verdes",
-    "recipe_img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "recipe_img": "https://recipes.net/wp-content/uploads/portal_files/recipes_net_posts/2021-06/enchiladas-verdes-con-pollo-recipe.png",
     "ingredients": [
       "tomatillos",
       "white onion",
@@ -30,7 +30,7 @@
     "chef_id": 1,
     "recipe_id": 2,
     "recipe_name": "Tostadas de Tinga",
-    "recipe_img": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://assets.unileversolutions.com/recipes-v2/153594.jpg?imwidth=1600",
     "ingredients": [
       "chicken breast",
       "white onion",
@@ -56,7 +56,7 @@
     "chef_id": 1,
     "recipe_id": 3,
     "recipe_name": "Pico de Gallo",
-    "recipe_img": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://images.getrecipekit.com/20220319011009-perfect-20pico-20de-20gallo-20-recipe-20kit.png?class=16x9",
     "ingredients": [
       "tomatoes",
       "white onion",
@@ -76,7 +76,7 @@
     "chef_id": 1,
     "recipe_id": 4,
     "recipe_name": "Salsa Roja",
-    "recipe_img": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.mylatinatable.com/wp-content/uploads/2017/05/Salsa-roja-clasica.jpg",
     "ingredients": [
       "dried chiles",
       "canned tomatoes",
@@ -96,7 +96,7 @@
     "chef_id": 2,
     "recipe_id": 5,
     "recipe_name": "Chiles Rellenos",
-    "recipe_img": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.goya.com/media/4255/stuffed-chileschiles-rellenos.jpg?quality=80",
     "ingredients": [
       "poblano peppers",
       "white onion",
@@ -126,7 +126,7 @@
     "chef_id": 2,
     "recipe_id": 6,
     "recipe_name": "Pork Carnitas",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://gowholehog.ca/wp-content/uploads/2022/08/Pork-Carnitas-1536x864.png",
     "ingredients": [
       "pork shoulder",
       "orange juice",
@@ -153,7 +153,7 @@
     "chef_id": 2,
     "recipe_id": 7,
     "recipe_name": "Mexican Rice",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://hips.hearstapps.com/hmg-prod/images/190412-mexican-rice-horizontal-2-1555972502.png?crop=0.668xw:1.00xh;0.143xw,0&resize=980:*",
     "ingredients": [
       "long-grain rice",
       "vegetable oil",
@@ -179,7 +179,7 @@
     "chef_id": 2,
     "recipe_id": 8,
     "recipe_name": "Taco Salad",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.allrecipes.com/thmb/yTg1PaY1oaBjrxXaYa5ycYCwd9c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/14253-Taco-Salad-ddmfs-016-4x3-1-8c152400b3a2465fbaff684bdda0a264.jpg",
     "ingredients": [
       "1 lb ground beef",
       "1 package taco seasoning",
@@ -198,7 +198,7 @@
     "chef_id": 2,
     "recipe_id": 9,
     "recipe_name": "Chicken Enchiladas",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.allrecipes.com/thmb/W5SnwkSdJTCvs1zKUpEcQnxz3rY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/212451-enchanted-sour-cream-chicken-enchiladas-DDMFS-beauty-4x3-BG-3005-609cd9e336b44e87a5e9f10c290fb48f.jpg",
     "ingredients": [
       "1 lb boneless, skinless chicken breasts, cooked and shredded",
       "1 can black beans, drained and rinsed",
@@ -220,7 +220,7 @@
     "chef_id": 3,
     "recipe_id": 10,
     "recipe_name": "Shrimp Ceviche",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://img.buzzfeed.com/tasty-app-user-assets-prod-us-east-1/recipes/35124fd41c1640d5b8179bfe8c4f47f1.png?resize=1000:*&output-format=auto&output-quality=auto",
     "ingredients": [
       "1 lb medium shrimp, peeled and deveined",
       "1/2 cup freshly squeezed lime juice",
@@ -240,7 +240,7 @@
     "chef_id": 3,
     "recipe_id": 11,
     "recipe_name": "Chiles Rellenos",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.curiouscuisiniere.com/wp-content/uploads/2018/11/Mexican-Baked-Chiles-Rellenos-7374-1.jpg",
     "ingredients": [
       "6 poblano peppers",
       "1 lb ground beef",
@@ -266,7 +266,7 @@
     "chef_id": 3,
     "recipe_id": 12,
     "recipe_name": "Mexican Rice",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://hips.hearstapps.com/hmg-prod/images/190412-mexican-rice-horizontal-2-1555972502.png?crop=0.668xw:1.00xh;0.143xw,0&resize=980:*",
     "ingredients": [
       "1 cup long-grain white rice",
       "1 tbsp olive oil",
@@ -289,7 +289,7 @@
     "chef_id": 3,
     "recipe_id": 13,
     "recipe_name": "Taco Salad",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.allrecipes.com/thmb/yTg1PaY1oaBjrxXaYa5ycYCwd9c=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/14253-Taco-Salad-ddmfs-016-4x3-1-8c152400b3a2465fbaff684bdda0a264.jpg",
     "ingredients": [
       "ground beef",
       "taco seasoning",
@@ -310,7 +310,7 @@
     "chef_id": 3,
     "recipe_id": 14,
     "recipe_name": "Mexican Rice",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://hips.hearstapps.com/hmg-prod/images/190412-mexican-rice-horizontal-2-1555972502.png?crop=0.668xw:1.00xh;0.143xw,0&resize=980:*",
     "ingredients": [
       "long-grain white rice",
       "vegetable oil",
@@ -334,7 +334,7 @@
     "chef_id": 4,
     "recipe_id": 15,
     "recipe_name": "Mole Poblano",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://i1.wp.com/itraalimentos.com/wp-content/uploads/2020/12/AdobeStock_273956677-min-scaled.jpeg?resize=1024%2C683&ssl=1",
     "ingredients": [
       "dried ancho chiles",
       "dried pasilla chiles",
@@ -358,7 +358,7 @@
     "chef_id": 4,
     "recipe_id": 16,
     "recipe_name": "Tacos al Pastor",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.seriouseats.com/thmb/4kbwN13BlZnZ3EywrtG2AzCKuYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210712-tacos-al-pastor-melissa-hom-seriouseats-37-f72cdd02c9574bceb1eef1c8a23b76ed.jpg",
     "ingredients": [
       "pork shoulder",
       "achiote paste",
@@ -386,7 +386,7 @@
     "chef_id": 4,
     "recipe_id": 17,
     "recipe_name": "Chiles Rellenos",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.goya.com/media/4255/stuffed-chileschiles-rellenos.jpg?quality=80",
     "ingredients": [
       "poblano peppers",
       "ground beef",
@@ -410,7 +410,7 @@
     "chef_id": 4,
     "recipe_id": 18,
     "recipe_name": "Chile Rellenos",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.curiouscuisiniere.com/wp-content/uploads/2018/11/Mexican-Baked-Chiles-Rellenos-7374-1.jpg",
     "ingredients": [
       "poblano peppers",
       "queso fresco",
@@ -436,7 +436,7 @@
     "chef_id": 4,
     "recipe_id": 19,
     "recipe_name": "Mexican Shrimp Cocktail",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://feastandmerriment.com/wp-content/uploads/2021/05/Mexican-shrimp-cocktail-guacamole-1-768x512.jpeg.webp",
     "ingredients": [
       "cooked shrimp",
       "tomatoes",
@@ -457,7 +457,7 @@
     "chef_id": 5,
     "recipe_id": 20,
     "recipe_name": "Chicken Tinga Tacos",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://hips.hearstapps.com/hmg-prod/images/chicken-tinga-5-1579643696.jpg?crop=1xw:0.84375xh;center,top&resize=1200:*",
     "ingredients": [
       "chicken breasts",
       "onion",
@@ -479,7 +479,7 @@
     "chef_id": 5,
     "recipe_id": 21,
     "recipe_name": "Mexican Street Corn",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.seriouseats.com/thmb/6tXTfp2-QGmVLazenk672sgUdRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20210630-elotes-melissa-hom-seriouseats-5-895932860b0d4f88b1b330e574036305.jpg",
     "ingredients": [
       "corn on the cob",
       "mayonnaise",
@@ -501,7 +501,7 @@
     "chef_id": 5,
     "recipe_id": 22,
     "recipe_name": "Enchilada Casserole",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://images-gmi-pmc.edge-generalmills.com/805abafa-31cb-4971-9149-648b61106e30.jpg",
     "ingredients": [
       "ground beef",
       "enchilada sauce",
@@ -527,7 +527,7 @@
     "chef_id": 5,
     "recipe_id": 23,
     "recipe_name": "Chipotle Chicken Tacos",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://www.modernhoney.com/wp-content/uploads/2018/09/Chipotle-Chicken-Tinga-Tacos-9.jpg",
     "ingredients": [
       "1 pound boneless, skinless chicken breasts",
       "1 tablespoon olive oil",
@@ -555,7 +555,7 @@
     "chef_id": 5,
     "recipe_id": 24,
     "recipe_name": "Churro French Toast",
-    "recipe_img": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "recipe_img": "https://i0.wp.com/goepicurista.com/wp-content/uploads/2020/04/churro-french-toast-grilled-cheese-2-scaled.jpeg?resize=768%2C960&ssl=1",
     "ingredients": [
       "1/2 cup granulated sugar",
       "1 teaspoon ground cinnamon",
